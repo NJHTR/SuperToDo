@@ -10,9 +10,13 @@
 ![image](https://github.com/user-attachments/assets/78bd39f7-313d-4496-951e-94ee8018ee92)
 ## 明暗色切换
 ![image](https://github.com/user-attachments/assets/f390b1dd-46a1-4d7a-974a-5ac51bfb0642)
-
-
-
+## 多种布局选择适合所有用户的习惯
+![image](https://github.com/user-attachments/assets/156dc295-0c16-4d6a-9a4c-2c2b51eb7994)
+![image](https://github.com/user-attachments/assets/b8d056c9-9ab3-49b0-a03a-ab0457af6a03)
+![image](https://github.com/user-attachments/assets/91eec63c-eaa8-46b2-bb41-568655ff698e)
+![image](https://github.com/user-attachments/assets/2f2f4ff2-355b-457d-9532-691a15c43b01)
+## 超级多音效和震动反馈
+## 生动的动画效果
 ## 🌟 应用作用
 
 这是一个功能强大的待办事项管理工具，可以帮助您：
