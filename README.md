@@ -1,11 +1,15 @@
 # 超级待办事项应用
-超多主题颜色选择
+## 超多主题颜色选择
 ![image](https://github.com/user-attachments/assets/62cbd25f-6f51-4dd0-883a-32f8a0a0320e)
 ![image](https://github.com/user-attachments/assets/dffb19fc-6401-4e25-a9ef-8eafe02ba9d9)
 ![image](https://github.com/user-attachments/assets/e0705e19-76ef-47fa-980b-56dbea47ff57)
 ![image](https://github.com/user-attachments/assets/4ba31c9e-d046-4bd7-979d-4cb78dbb7943)
 ![image](https://github.com/user-attachments/assets/581a91c4-aab7-47bb-9d0c-78cb1d80bd4b)
 ![image](https://github.com/user-attachments/assets/3ef69ecf-fdd7-44d8-8738-6ced28db8cd9)
+## 双语言支持
+![image](https://github.com/user-attachments/assets/78bd39f7-313d-4496-951e-94ee8018ee92)
+## 明暗色切换
+![image](https://github.com/user-attachments/assets/f390b1dd-46a1-4d7a-974a-5ac51bfb0642)
 
 
 
